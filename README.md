@@ -1,2 +1,2 @@
-# Web-Programc-l-Dersi-S-nav-al-ma-Egzersizleri
+# Basit Temel Sinav Soruları
 Basit temel düzeyde HTML, PHP Egzersizleri
